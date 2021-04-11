@@ -62,8 +62,8 @@ function renderLicenseSection(data) {
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
-  #Badge: ${renderLicenseBadge(data)}
-  #Table of Contents:
+  ## Badge: ${renderLicenseBadge(data)}
+  ## Table of Contents:
     1. [Description](#description)
     2. [License](#license)
     3. [Installation](#installation)
@@ -73,27 +73,27 @@ function generateMarkdown(data) {
     7. [Test](#test)
     8. [Questions](#questions)
     9. [Credits](#credits)
-  #Description:
+  ## Description:
   ${data.description}
-  #Licenses:
+  ## Licenses:
   1. Your Badge: ${renderLicenseBadge(data)}
   2. Your Badge link: ${renderLicenseLink(data)}
   3. Your Badge Readme: ${renderLicenseSection(data)}
-  #Installation:
+  ## Installation:
   ${data.installation}
-  #Usage:
+  ## Usage:
   ${data.usage}
-  #Features:
+  ## Features:
   ${data.features}
-  #Contribute:
+  ## Contribute:
   ${data.contribute}
-  #Test:
+  ## Test:
   ${data.test}
-  #Questions:
+  ## Questions:
   1. Please click the link for Github: <a href = "https://github.com/${data.questions}">My Github Site</a>
   2. Please click the link for my Website: <a href = "${data.questions2}">My Website</a>
   3. Email: ${data.questions3} 
-  #Credits:
+  ## Credits:
   ${data.credits}
   `;
 }
