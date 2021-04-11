@@ -1,4 +1,4 @@
-# hello
+# hi
   ## Badge: ![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)
   ## Table of Contents:
     1. [Description](#description)
@@ -11,25 +11,25 @@
     8. [Questions](#questions)
     9. [Credits](#credits)
   ## Description:
-  hello
+  hi
   ## Licenses:
   1. Your Badge: ![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)
   2. Your Badge link: <a href = "https://opensource.org/licenses/GPL-3.0">License Link</a>
-  3. Your Badge Readme: <a href = "https://github.com/TheFox/GPLv3.mdl">GPLv3 Guide</a>
+  3. Your Badge Readme: <a href = "http://www.gnu.org/licenses/">GPLv3 Guide</a>
   ## Installation:
   hi
   ## Usage:
-  yo
+  hi
   ## Features:
-  sup
+  hi
   ## Contribute:
-  tes
+  hi
   ## Test:
-  gdayu
+  hi
   ## Questions:
-  1. Please click the link for Github: <a href = "https://github.com/hello">My Github Site</a>
-  2. Please click the link for my Website: <a href = "hello">My Website</a>
+  1. Please click the link for Github: <a href = "https://github.com/hi">My Github Site</a>
+  2. Please click the link for my Website: <a href = "hi">My Website</a>
   3. Email: hi 
   ## Credits:
-  hi
+  SMU and classmates
   

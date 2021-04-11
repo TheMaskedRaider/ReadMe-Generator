@@ -45,7 +45,7 @@ function renderLicenseSection(data) {
     userSection = `<a href = "https://github.com/Medium/opensource/blob/master/apache-license-2.0.md">Apache Guide</a>`
 
   } else if(licenseSection === 'GPLv3') {
-    userSection = `<a href = "https://github.com/TheFox/GPLv3.mdl">GPLv3 Guide</a>`
+    userSection = `<a href = "http://www.gnu.org/licenses/">GPLv3 Guide</a>`
 
   } else if(licenseSection === 'MIT') {
     userSection = `<a href = "https://gist.github.com/ckib16/8732561535ed766cd6b8">MIT Guide </a>`
