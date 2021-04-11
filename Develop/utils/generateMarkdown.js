@@ -64,15 +64,15 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ## Badge: ${renderLicenseBadge(data)}
   ## Table of Contents:
-    1. [Description](#description)
-    2. [License](#license)
-    3. [Installation](#installation)
-    4. [Usage](#usage)
-    5. [Features](#features)
-    6. [Contribute](#contribute)
-    7. [Test](#test)
-    8. [Questions](#questions)
-    9. [Credits](#credits)
+    1. [Description](##description)
+    2. [License](##license)
+    3. [Installation](##installation)
+    4. [Usage](##usage)
+    5. [Features](##features)
+    6. [Contribute](##contribute)
+    7. [Test](##test)
+    8. [Questions](##questions)
+    9. [Credits](##credits)
   ## Description:
   ${data.description}
   ## Licenses:
